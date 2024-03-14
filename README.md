@@ -30,7 +30,7 @@ Users should be able to:
 
 Here is a screenshot of my work : 
 
-![](./image/screenshot.jpg)
+![](/image/screenshot.jpg)
 
 
 ## My process
